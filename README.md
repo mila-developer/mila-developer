@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hello everyone! 🤗
 
-<!--
-**mila-developer/mila-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Camila, from Brazil and livin in Portual actually.
+I'm a Computer Engineering student that has been focused on FrontEnd Developer.
+
+### 👩‍💻 Being a developer is a journey where a next stop is the solution to a problem.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📍 From Rio de Janeiro | Living in Lisbon
+- 👩🏼‍💻 FrontEnd Developer at Top Academy
+- 🌍 Exploring the technological and real world
+
+Know more about me 👇
