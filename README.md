@@ -31,5 +31,5 @@ I'm a Computer Engineering student that has been focused on FrontEnd Developer. 
 
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" alt="react" width="40" height="40" style="max-width:100%;"></img>
 
-![Camila's github stats](https://github-readme-stats.vercel.app/api?username=mila-developer&show_icons=true&count_private=true&theme=radical)
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mila-developer&layout=compact&langs_count=16&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mila-developer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mila-developer&layout=compact&langs_count=16&theme=dracula"/>
