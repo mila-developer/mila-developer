@@ -2,9 +2,7 @@
  
 I'm Camila, from Brazil and living in Portual actually. <br>
 I'm a Computer Engineering student that has been focused on FrontEnd Developer. <br>
-<p align="center">
- <img src="https://cdn.icon-icons.com/icons2/1451/PNG/512/heartfolder_99362.png" alt="html" width="50" height="50" style="max-width:100%;"></img>
- </p>
+<img src="https://cdn.icon-icons.com/icons2/1451/PNG/512/heartfolder_99362.png" alt="html" width="50" height="50" style="max-width:100%;"></img>
 
 
 ### 👩‍💻 Being a developer is a journey where a next stop is the solution to a problem.
@@ -34,3 +32,4 @@ I'm a Computer Engineering student that has been focused on FrontEnd Developer. 
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" alt="react" width="40" height="40" style="max-width:100%;"></img>
 
 ![Camila's github stats](https://github-readme-stats.vercel.app/api?username=mila-developer&show_icons=true&count_private=true&theme=radical)
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mila-developer&layout=compact&langs_count=16&theme=dracula"/>
