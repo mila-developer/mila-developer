@@ -16,3 +16,8 @@ Know more about me 👇
 [![Linkedin Badge](https://img.shields.io/badge/-Camila%20Abreu-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/camila-abreu-79ab96b8//)](https://www.linkedin.com/in/camila-abreu-79ab96b8//) 
 [![Gmail Badge](https://img.shields.io/badge/-camilalyra.abreu@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:camilalyra.abreu@gmail.com)](mailto:camilalyra.abreu@gmail.com) [![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/camilalyra/videos)](https://www.youtube.com/user/camilalyra/videos)
 
+## My Skills
+
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/html_original_wordmark_logo_icon_146478.png" alt="html" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" alt="css" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="javascript" width="40" height="40" style="max-width:100%;"></img>
