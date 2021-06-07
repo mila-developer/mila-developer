@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 Know more about me 👇
 
 [![Linkedin Badge](https://img.shields.io/badge/-Camila%20Abreu-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/camila-abreu-79ab96b8//)](https://www.linkedin.com/in/camila-abreu-79ab96b8//) 
-[![Gmail Badge](https://img.shields.io/badge/-camilalyra.abreu@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:camilalyra.abreu@gmail.com)](mailto:camilalyra.abreu@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-camilalyra.abreu@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:camilalyra.abreu@gmail.com)](mailto:camilalyra.abreu@gmail.com) [![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/camilalyra/videos)](https://www.youtube.com/user/camilalyra/videos)
 
