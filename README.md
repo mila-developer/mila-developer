@@ -1,7 +1,7 @@
  # Hello everyone! 🤗
  
 I'm Camila, from Brazil and living in Portual actually.
-I'm a Computer Engineering student that has been focused on FrontEnd Developer. <img src="https://cdn.icon-icons.com/icons2/2773/PNG/512/donut_icon_176836.png" alt="html" width="40" height="40" style="max-width:100%;"></img>
+I'm a Computer Engineering student that has been focused on FrontEnd Developer. <img src="https://cdn.icon-icons.com/icons2/2620/PNG/512/among_us_player_pink_icon_156938.png" alt="html" width="40" height="40" style="max-width:100%;"></img>
 
 
 ### 👩‍💻 Being a developer is a journey where a next stop is the solution to a problem.
