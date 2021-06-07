@@ -1,6 +1,6 @@
  # Hello everyone! 🤗
  
-I'm Camila, from Brazil and living in Portual actually.
+I'm Camila, from Brazil and living in Portual actually. <br>
 I'm a Computer Engineering student that has been focused on FrontEnd Developer. <br>
 <img src="https://cdn.icon-icons.com/icons2/2620/PNG/512/among_us_player_pink_icon_156938.png" alt="html" width="40" height="40" style="max-width:100%;"></img>
 
