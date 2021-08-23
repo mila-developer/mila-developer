@@ -14,8 +14,7 @@ I'm a Computer Engineering student that has been focused on FrontEnd Developer. 
 ### Connect with me 👇
 
 [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN%20-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/camila-abreu-79ab96b8//)](https://www.linkedin.com/in/camila-abreu-79ab96b8//) 
-[![Gmail Badge](https://img.shields.io/badge/-GMAIL-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:camilalyra.abreu@gmail.com)](mailto:camilalyra.abreu@gmail.com) [![Youtube Badge](https://img.shields.io/badge/-YOUTUBE-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/camilalyra/videos)](https://www.youtube.com/user/camilalyra/videos)
-
+[![Gmail Badge](https://img.shields.io/badge/-GMAIL-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:camilalyra.abreu@gmail.com)](mailto:camilalyra.abreu@gmail.com) 
 ### My Skills
 
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/html_original_wordmark_logo_icon_146478.png" alt="html" width="40" height="40" style="max-width:100%;"></img>
