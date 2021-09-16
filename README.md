@@ -1,14 +1,14 @@
  # Hello everyone! 🤗
  
 I'm Camila, from Brazil and living in Portugal actually. <br>
-I'm a Computer Engineering student that has been focused on FullStack Developer. <br>
+I'm a Computer Engineering student that has been focused on FrontEnd Developer. <br>
 
 
 ### 👩‍💻 Being a developer is a journey where a next stop is the solution to a problem.
 
 
 - 📍 From Rio de Janeiro | Living in Lisbon
-- 👩🏼‍💻 FrontEnd Developer at Top Academy
+- 👩🏼‍💻 FrontEnd Developer 
 - 🌍 Exploring the technological and real world
 
 ### Connect with me 👇
