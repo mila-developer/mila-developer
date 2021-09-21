@@ -1,7 +1,7 @@
  # Hello everyone! 🤗
  
 I'm Camila, from Brazil and living in Portugal actually. <br>
-I'm a Computer Engineering student that has been focused on FrontEnd Developer. <br>
+I'm a Computer Engineering student that has been focused on Front-end Developer. <br>
 
 
 ### 👩‍💻 Being a developer is a journey where a next stop is the solution to a problem.
