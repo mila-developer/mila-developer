@@ -1,4 +1,3 @@
-
 [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN%20-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/camila-abreu-79ab96b8//)](https://www.linkedin.com/in/camila-abreu-79ab96b8//) 
 [![Gmail Badge](https://img.shields.io/badge/-GMAIL-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:camilalyra.abreu@gmail.com)](mailto:camilalyra.abreu@gmail.com) 
 
