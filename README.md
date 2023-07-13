@@ -1,16 +1,3 @@
- # Hello everyone! 🤗
- 
-I'm Camila, from Brazil and living in Portugal actually. <br>
-I'm a Computer Engineering student that has been focused on Front-end Developer. <br>
-
-
-### Being a developer is a journey where a next stop is the solution to a problem.
-
-
-- 📍 From Rio de Janeiro | Living in Lisbon
-- 👩🏼‍💻 FrontEnd Developer 
-- 🌍 Exploring the technological and real world
-
 ### Connect with me 👇
 
 [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN%20-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/camila-abreu-79ab96b8//)](https://www.linkedin.com/in/camila-abreu-79ab96b8//) 
